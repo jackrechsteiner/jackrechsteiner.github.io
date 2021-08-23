@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jack Rechsteiner / Linguist"
 title_separator          : "-"
-name                     : &name "Jack Rechsteiner (they/them)"
+name                     : &name "Jack Rechsteiner"
 description              : &description "Academia and research portfolio for sociolinguist Jack Rechsteiner."
 url                      : https://jackrechsteiner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Rechsteiner"
+  name             : "Jack Rechsteiner (they/them)"
   avatar           : "profile1.png"
   bio              : "Linguistics graduate student with a focus in sociolinguistics."
   location         : "Michigan State University"
