@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-MI-Diaries-UURAF
 venue: 'UURAF Conference'
 exceprt:
-date:
+date: 2021
 paperurl: 'http://jackrechsteiner.github.io/files/MI-Diaries-UURAF.pdf'
 citation:
 ---
