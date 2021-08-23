@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Linguistics, Michigan State University, 2021
+* M.A. in Linguistics, Michigan State University University, 2022 (expected)
+  * Member of MSU Sociolinguistics Lab
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* MI Diaries Research Assistant: November 2020 to present
+  * [MI Diaries](http://www.mi-diaries.org) is a project of the MSU Sociolinguistics Lab
+  * Duties included:
+   * Transcribing audio diary entries to be compliant with Forced Alignment & Vowel Extraction software.
+   * Participating in sessions related to recruitment, engagement, and brand management.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* HR Data Specialist: June 2019 - August 2021
+  * Worked in the Residential and Hospitality Services department of MSU
+  * Duties included:
+   * Developing accessible online leadership training for 200+ employees on the D2L platform.
+   * Managing departmental resources, including Excel spreadsheets, web pages, schedules, and Access databases.
+   * Optimizing and analyzing data by continuously improving data collection and upload strategies.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Structured Learning Assistant: August 2018 - June 2019
+  * Worked at Delta College
+  * Duties included: 
+   * Creating and teaching lesson plans for 5 separate developmental English courses.
+   * Tutoring 100+ students independently to strengthen and revise their writing.
+   * Developing and writing a handbook to be implemented in training future Structured Learning Assistants.
