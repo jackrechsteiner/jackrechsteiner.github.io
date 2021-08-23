@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jack Rechsteiner / Linguist"
 title_separator          : "-"
-name                     : &name "Jack Rechsteiner"
+name                     : &name "Jack Rechsteiner" <br> "they/them"
 description              : &description "Academia and research portfolio for sociolinguist Jack Rechsteiner."
 url                      : https://jackrechsteiner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
