@@ -1,16 +1,11 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+2021
 
-{% include base_path %}
+Jack Rechsteiner. Binary Opposition: Sociolinguistic Variation in Non-Binary Speakers. BA Thesis, Michigan State University. [[pdf](https://github.com/jackrechsteiner/jackrechsteiner.github.io/files/6881438/Binary.Opposition.pdf)]
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Alexis Furkioti and Jack Rechsteiner. MI Diaries: The Development of a Research Project as a Brand. Poster presented at UURAF 2021, East Lansing. [[poster](https://github.com/jackrechsteiner/jackrechsteiner.github.io/files/6881443/UURAF.Poster.pdf)] [[video](https://www.youtube.com/watch?v=ZWxotrdgwP0)]
