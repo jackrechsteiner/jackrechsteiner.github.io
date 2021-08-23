@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-Binary-Opposition
 venue:
 excerpt: 'Thesis for BA in Linguistics at Mchigan State University'
-date: 2021
+date: 2021-01-01
 paperurl: 'http://jackrechsteiner.github.io/files/Binary-Opposition.pdf'
 citation:
 ---
