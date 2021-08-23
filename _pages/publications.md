@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 2021
+======
 
 Jack Rechsteiner. Binary Opposition: Sociolinguistic Variation in Non-Binary Speakers. BA Thesis, Michigan State University. [[pdf](https://github.com/jackrechsteiner/jackrechsteiner.github.io/files/6881438/Binary.Opposition.pdf)]
 
