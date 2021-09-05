@@ -9,7 +9,7 @@ author_profile: true
 
 2021
 ====
-**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers’ rates of (ING) stable across conversation topics. Paper presented virtually at [UKVLC 13](https://uklvc13.com/). [abstract and presentation forthcoming]
+**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers’ rates of (ING) stable across conversation topics. Paper presented virtually at [UKVLC 13](https://uklvc13.com/). [abstract](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13.pdf) [presentation forthcoming]
 
 **Jack Rechsteiner**. Binary Opposition: Sociolinguistic Variation in Non-Binary Speakers. BA Thesis, Michigan State University. [[pdf](http://jackrechsteiner.github.io/files/Binary-Opposition.pdf)]
 
