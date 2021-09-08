@@ -9,7 +9,7 @@ author_profile: true
 
 2021
 ====
-**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [abstract and presentation forthcomiing]
+**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [abstract and presentation forthcoming]
 
 **Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers’ rates of (ING) stable across conversation topics. [UKVLC 13](https://uklvc13.com/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13.pdf)] [[presentation slides](http://jackrechsteiner.github.io/files/UKLVC13_Presentation.pdf)]
 
