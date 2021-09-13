@@ -9,7 +9,7 @@ author_profile: true
 
 2021
 ====
-**Jack Rechsteiner and Betsy Sneller**. Building community in digital fieldwork. [Digital Fieldwork](http://sigla.georgetown.domains/digitalfieldwork/) virtual journal. [paper forthcoming]
+**Jack Rechsteiner and Betsy Sneller**. Building community in digital fieldwork. Digital Fieldwork virtual journal. [[website link](http://sigla.georgetown.domains/digitalfieldwork/building-community-in-digital-fieldwork/)] [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_DigitalFieldwork.pdf)]
 
 **Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [abstract and presentation forthcoming]
 
