@@ -9,7 +9,7 @@ author_profile: true
 
 2021
 ====
-**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_NWAV_Abstract.pdf)] [presentation forthcoming]
+**Jack Rechsteiner and Betsy Sneller**. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_NWAV_Abstract.pdf)] [[presentation](https://vimeo.com/627644620)]
 
 **Jack Rechsteiner and Betsy Sneller**. Building community in digital fieldwork. [Digital Fieldwork](http://sigla.georgetown.domains/digitalfieldwork/) virtual journal. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_DigitalFieldwork.pdf)]
 
