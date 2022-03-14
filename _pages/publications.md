@@ -9,7 +9,7 @@ author_profile: true
 
 2022
 ====
-**Jack Rechsteiner and Betsy Sneller**. The effects of topic & part of speech on nonbinary speakers' use of (ING). [PLC 46](https://www.ling.upenn.edu/Events/PLC/plc46/index.html) virtual presentation. [slides and abstract forthcoming]
+**Jack Rechsteiner and Betsy Sneller**. The effects of topic & part of speech on nonbinary speakers' use of (ING). [PLC 46](https://www.ling.upenn.edu/Events/PLC/plc46/index.html) virtual presentation. [slides forthcoming] [[pdf] (http://jackrechsteiner.github.io/files/PLC_46_paper_55.pdf)]
 
 2021
 ====
