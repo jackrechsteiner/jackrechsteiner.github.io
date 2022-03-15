@@ -17,6 +17,10 @@ Education
 
 Experience
 ======
+
+* MSU LiLAC Teaching Assistant: January 2022 to present
+  * Assisted in the teaching and grading of 70+ students in LIN401 – Introduction to Linguistics. 
+    
 * MI Diaries Research Assistant: November 2020 to present
   * [MI Diaries](http://www.mi-diaries.org) is a project of the MSU Sociolinguistics Lab
   * Duties included:
