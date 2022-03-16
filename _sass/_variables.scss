@@ -10,7 +10,7 @@ $doc-font-size              : 16;
 
 // the following is part of my master plan to control all the fonts on this site, mwahahahaha
 // $rick-font                  : et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-$rick-font                  : Lora, Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$rick-font                  : 'Montserrat', -apple-system, "Trebuchet MS", Helvetica, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -18,7 +18,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : $rick-font, Georgia, Times, serif;
-$sans-serif                 : $rick-font, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : $rick-font, 'Montserrat', -apple-system, "Trebuchet MS", Helvetica, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : $rick-font, Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
