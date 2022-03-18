@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jack Rechsteiner (they/them)"
   avatar           : "profile2.png"
-  bio              : "['dʒæk ɹɛkˈstaɪnəɹ]    Linguistics graduate student with a focus in sociolinguistics."
+  bio              : "['dʒæk ɹɛkˈstaɪnəɹ]"    "Linguistics graduate student with a focus in sociolinguistics."
   location         : "Michigan State University"
-  employer         : 
+  employer         : "test"
   pubmed           : 
   googlescholar    : 
   email            : "rechste4@msu.edu"
