@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year MA student in the Linguistics program at MSU, and my research focuses primarily on sociophonetic variation in nonbinary speakers. I'm passionate about understanding the inner workings of language and the interplay between language and society, as well as how insights into these topics can be applied to other areas. Sociolinguistics, data analysis, and natural language processing are especially interesting to me. 
+I am a 2nd year MA student in the Linguistics program at MSU, and my research focuses primarily on sociophonetic variation in nonbinary speakers. I'm passionate about understanding the inner workings of language and the interplay between language and society, as well as how insights into these topics can be applied to other areas. Sociolinguistics, data analysis, and natural language processing are especially interesting to me. 
