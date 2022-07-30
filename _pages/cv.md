@@ -18,14 +18,18 @@ Education
 Experience
 ======
 
-* MSU LiLAC Teaching Assistant: January 2022 to present
-  * Assisted in the teaching and grading of 70+ students in LIN401 – Introduction to Linguistics. 
-    
 * MI Diaries Research Assistant: November 2020 to present
   * [MI Diaries](http://www.mi-diaries.org) is a project of the MSU Sociolinguistics Lab
   * Duties included:
     * Transcribing audio diary entries to be compliant with Forced Alignment & Vowel Extraction software.
     * Participating in sessions related to recruitment, engagement, and brand management.
+    * Mentoring and managing 5 Research Experiences for Undergraduate students.
+
+* MSU LiLAC Assistant Instructor: May 2022 to July 2022
+  * Created lesson materials, led class sessions, and graded assignment for 15+ students in LIN225 – Language and Gender.
+
+* MSU LiLAC Teaching Assistant: January 2022 to May 2022
+  * Assisted in the teaching and grading of 70+ students in LIN401 – Introduction to Linguistics. 
 
 * HR Data Specialist: June 2019 - August 2021
   * Worked in the Residential and Hospitality Services department of MSU
@@ -40,3 +44,8 @@ Experience
      * Creating and teaching lesson plans for 5 separate developmental English courses.
      * Tutoring 100+ students independently to strengthen and revise their writing.
      * Developing and writing a handbook to be implemented in training future Structured Learning Assistants.
+
+University Service
+======
+
+* Judge for the 24th University Undergraduate Research and Arts Forum: April 2022
