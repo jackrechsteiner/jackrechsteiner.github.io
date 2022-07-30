@@ -26,7 +26,7 @@ Experience
     * Mentoring and managing 5 Research Experiences for Undergraduate students.
 
 * MSU LiLAC Assistant Instructor: May 2022 to July 2022
-  * Created lesson materials, led class sessions, and graded assignment for 15+ students in LIN225 – Language and Gender.
+  * Created lesson materials, led class sessions, and graded assignments for 15+ students in LIN225 – Language and Gender.
 
 * MSU LiLAC Teaching Assistant: January 2022 to May 2022
   * Assisted in the teaching and grading of 70+ students in LIN401 – Introduction to Linguistics. 
