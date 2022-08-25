@@ -17,7 +17,7 @@ Suzanne Wagner, Betsy Sneller, and **Jack Rechsteiner**. Longitudinal sociolingu
 ====
 **Jack Rechsteiner** and Betsy Sneller. Nonbinary speakers' use of (ING) across gender-related topics. [NWAV 49](https://www.nwav49.org/) virtual presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV49.pdf)] [[video](https://vimeo.com/627644620)]
 
-**Jack Rechsteiner** and Betsy Sneller. Building community in digital fieldwork. [Digital Fieldwork](http://sigla.georgetown.domains/digitalfieldwork/) virtual journal. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_DigitalFieldwork.pdf)]
+**Jack Rechsteiner** and Betsy Sneller. Building community in digital fieldwork. [Digital Fieldwork](https://digitalfieldwork.iu.edu/) virtual journal. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_DigitalFieldwork.pdf)]
 
 **Jack Rechsteiner** and Betsy Sneller. Nonbinary speakers’ rates of (ING) stable across conversation topics. [UKVLC 13](https://uklvc13.com/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13.pdf)] [[video](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13_video.mp4)]
 
