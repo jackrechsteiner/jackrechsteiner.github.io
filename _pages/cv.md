@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Linguistics, Michigan State University, 2021
-* M.A. in Linguistics, Michigan State University University, 2022 (expected)
+* M.A. in Linguistics, Michigan State University University, 2023 (expected)
   * Member of MSU Sociolinguistics Lab
 
 Experience
