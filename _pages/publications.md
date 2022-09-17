@@ -19,7 +19,7 @@ Suzanne Wagner, Betsy Sneller, and **Jack Rechsteiner**. Longitudinal sociolingu
 
 **Jack Rechsteiner** and Betsy Sneller. Building community in digital fieldwork. [Digital Fieldwork](https://digitalfieldwork.iu.edu/) virtual journal. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_DigitalFieldwork.pdf)]
 
-**Jack Rechsteiner** and Betsy Sneller. Nonbinary speakers’ rates of (ING) stable across conversation topics. [UKVLC 13](https://uklvc13.com/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13.pdf)] [[video](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13_video.mp4)]
+**Jack Rechsteiner** and Betsy Sneller. Nonbinary speakers’ rates of (ING) stable across conversation topics. [UKLVC 13](https://uklvc13.com/) virtual presentation. [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13.pdf)] [[video](http://jackrechsteiner.github.io/files/Rechsteiner_UKLVC13_video.mp4)]
 
 Alexis Furkioti and **Jack Rechsteiner**. MI Diaries: The Development of a Research Project as a Brand. Poster presented at [UURAF 2021](https://urca.msu.edu/forums/uuraf-2021), East Lansing. [[poster](http://jackrechsteiner.github.io/files/MI-Diaries-UURAF.pdf)] [[video](https://www.youtube.com/watch?v=ZWxotrdgwP0)]
 
