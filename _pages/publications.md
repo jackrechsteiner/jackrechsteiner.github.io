@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+2023
+====
+**Jack Rechsteiner** and Betsy Sneller. The Effects of Topic and Part of Speech on Nonbinary Speakers' Use of (ING). [University of Pennsylvania Working Papers in Linguistics: Vol. 29: Iss. 1](https://repository.upenn.edu/pwpl/vol29/iss1/) article. [[pdf](http://jackrechsteiner.github.io/files/RechsteinerPWPL2023.pdf)]
+
 2022
 ====
 Suzanne Wagner, Betsy Sneller, and **Jack Rechsteiner**. Longitudinal sociolinguistic research projects as brands. [Methods in Dialectology XVII](https://methodsxvii.uni-mainz.de/) virtual presentation. [[slides](http://jackrechsteiner.github.io/files/Methods_in_Dialect_Presentation.pdf)]
