@@ -9,7 +9,7 @@ author_profile: true
 
 2023
 ====
-**Jack Rechsteiner** and Betsy Sneller. The Effects of Topic and Part of Speech on Nonbinary Speakers' Use of (ING). [University of Pennsylvania Working Papers in Linguistics: Vol. 29: Iss. 1](https://repository.upenn.edu/pwpl/vol29/iss1/) article. [[pdf](http://jackrechsteiner.github.io/files/RechsteinerPWPL2023.pdf)]
+**Jack Rechsteiner** and Betsy Sneller. The Effects of Topic and Part of Speech on Nonbinary Speakers' Use of (ING). [University of Pennsylvania Working Papers in Linguistics: Vol. 29: Iss. 1](https://repository.upenn.edu/handle/20.500.14332/58728) article. [[pdf](http://jackrechsteiner.github.io/files/RechsteinerPWPL2023.pdf)]
 
 2022
 ====
