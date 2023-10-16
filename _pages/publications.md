@@ -9,11 +9,11 @@ author_profile: true
 
 2023
 ====
-**Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [New Ways of Analyzing Variation 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
+**Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
 
-Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [New Ways of Analyzing Variation 51](https://nwav51.org/) paper presentation.
+Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [NWAV 51](https://nwav51.org/) paper presentation.
 
-Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [New Ways of Analyzing Variation 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
+Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [NWAV 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
 
 **Jack Rechsteiner** and Betsy Sneller. The impact of social information on VOT shadowing by nonbinary speakers. [Proceedings of the 20th International Congress of the Phonetic Sciences](https://www.icphs2023.org/) article. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_ICPhS20.pdf)]
 
