@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 * B.A. in Linguistics, Michigan State University, 2021
-* M.A. in Linguistics, Michigan State University University, 2023 (expected)
+* M.A. in Linguistics, Michigan State University University, 2023
   * Member of MSU Sociolinguistics Lab
+* Ph.D. in Linguistics, University of Pittsburgh (in progress)
 
 Experience
 ======
 
-* MI Diaries Research Assistant: November 2020 to present
+* MI Diaries Research Assistant: November 2020 to August 2023
   * [MI Diaries](http://www.mi-diaries.org) is a project of the MSU Sociolinguistics Lab
   * Duties included:
     * Transcribing audio diary entries to be compliant with Forced Alignment & Vowel Extraction software.
