@@ -24,7 +24,7 @@ Experience
   * Duties included:
     * Transcribing audio diary entries to be compliant with Forced Alignment & Vowel Extraction software.
     * Participating in sessions related to recruitment, engagement, and brand management.
-    * Mentoring and managing 5 Research Experiences for Undergraduate students.
+    * Mentoring and managing 10 Research Experiences for Undergraduate students.
 
 * MSU LiLAC Assistant Instructor: May 2022 to July 2022
   * Created lesson materials, led class sessions, and graded assignments for 15+ students in LIN225 – Language and Gender.
