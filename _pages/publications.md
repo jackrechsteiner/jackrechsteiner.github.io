@@ -9,6 +9,12 @@ author_profile: true
 
 2023
 ====
+**Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [New Ways of Analyzing Variation 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
+
+Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [New Ways of Analyzing Variation 51](https://nwav51.org/) paper presentation.
+
+Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [New Ways of Analyzing Variation 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
+
 **Jack Rechsteiner** and Betsy Sneller. The impact of social information on VOT shadowing by nonbinary speakers. [Proceedings of the 20th International Congress of the Phonetic Sciences](https://www.icphs2023.org/) article. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_ICPhS20.pdf)]
 
 **Jack Rechsteiner** and Betsy Sneller. The Effects of Topic and Part of Speech on Nonbinary Speakers' Use of (ING). [University of Pennsylvania Working Papers in Linguistics: Vol. 29: Iss. 1](https://repository.upenn.edu/handle/20.500.14332/58728) article. [[pdf](http://jackrechsteiner.github.io/files/RechsteinerPWPL2023.pdf)]
@@ -31,6 +37,12 @@ Alexis Furkioti and **Jack Rechsteiner**. MI Diaries: The Development of a Resea
 
 *Mentored Research*
 ====
+Janice Peng. Oh, I’m quoting something I don’t like: Usage of “oh” to signal negative stance. Poster presented at Michigan State University Mid-Michigan Symposium for Undergraduate Research (Mid-SURE), July 26, 2023. Mentors: **Jack Rechsteiner**, Suzanne Wagner.
+
+Sam Scroggins. I’m, um, nonbinary: Usage of UM/UH among nonbinary speakers. Poster presented at Michigan State University Mid-Michigan Symposium for Undergraduate Research (Mid-SURE), July 26, 2023. Mentors: **Jack Rechsteiner**, Betsy Sneller.
+
+Zach Sebree. Demographic coding in MI Diaries. Poster presentation at Michigan State University Undergraduate Research and Arts Forum (UURAF), April 14, 2023. Mentors: Suzanne Wagner and **Jack Rechsteiner**.
+
 Abigail “Jayce” Garner. A case study of an audio diarist’s speech formality over time. Poster presentation at Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE), July 27, 2022. Mentors: Betsy Sneller, Suzanne Wagner, **Jack Rechsteiner**.
 
 Olivia Jessner. Synthesizing signoffs: An exploration of gender’s effect on valediction. Poster presentation at Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE), July 27, 2022. Mentors: **Jack Rechsteiner** and Betsy Sneller.
