@@ -46,8 +46,13 @@ Experience
      * Tutoring 100+ students independently to strengthen and revise their writing.
      * Developing and writing a handbook to be implemented in training future Structured Learning Assistants.
 
+Awards
+======
+* University of Pittsburgh Arts & Sciences Graduate Fellowship: August 2023 to April 2024
+
 University Service
 ======
 
 * Judge for the 24th University Undergraduate Research and Arts Forum: April 2022
 * Graduate-Undergraduate Liaison for MSU Linguistics Society: 2021 to 2022
+
