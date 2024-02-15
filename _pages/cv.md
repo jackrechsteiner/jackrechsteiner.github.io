@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.A. in Linguistics, Michigan State University, 2021
-* M.A. in Linguistics, Michigan State University, 2023
-  * Member of MSU Sociolinguistics Lab
-* Ph.D. in Linguistics, University of Pittsburgh (in progress)
+* B.A. in Linguistics, [Michigan State University](https://lilac.msu.edu/), 2021
+* M.A. in Linguistics, [Michigan State University](https://lilac.msu.edu/), 2023
+  * Member of [MSU Sociolinguistics Lab](https://sociolab.msu.edu/)
+* Ph.D. in Linguistics, [University of Pittsburgh](https://www.linguistics.pitt.edu/) (in progress)
 
 Experience
 ======
@@ -40,7 +40,7 @@ Experience
      * Optimizing and analyzing data by continuously improving data collection and upload strategies.
     
 * Structured Learning Assistant: August 2018 - June 2019
-  * Worked at Delta College
+  * Worked at [Delta College](https://www.delta.edu/)
   * Duties included: 
      * Creating and teaching lesson plans for 5 separate developmental English courses.
      * Tutoring 100+ students independently to strengthen and revise their writing.
@@ -53,7 +53,7 @@ Awards
 University Service
 ======
 
-* Webmaster for the University of Pittsburgh Arts & Sciences Graduate Student Organization: November 2023 to Present
-* Judge for the 24th University Undergraduate Research and Arts Forum at Michigan State University: April 2022
-* Graduate-Undergraduate Liaison for Michigan State University Linguistics Society: 2021 to 2022
+* Webmaster for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/): November 2023 to Present
+* Judge for the 24th University [Undergraduate Research and Arts Forum](https://urca.msu.edu/uuraf) at Michigan State University: April 2022
+* Graduate-Undergraduate Liaison for [MSU Linguistics Society](https://msulinguists.weebly.com/): 2021 to 2022
 
