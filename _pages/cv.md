@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Linguistics, Michigan State University, 2021
-* M.A. in Linguistics, Michigan State University University, 2023
+* M.A. in Linguistics, Michigan State University, 2023
   * Member of MSU Sociolinguistics Lab
 * Ph.D. in Linguistics, University of Pittsburgh (in progress)
 
@@ -53,6 +53,7 @@ Awards
 University Service
 ======
 
-* Judge for the 24th University Undergraduate Research and Arts Forum: April 2022
-* Graduate-Undergraduate Liaison for MSU Linguistics Society: 2021 to 2022
+* Webmaster for the University of Pittsburgh Arts & Sciences Graduate Student Organization: November 2023 to Present
+* Judge for the 24th University Undergraduate Research and Arts Forum at Michigan State University: April 2022
+* Graduate-Undergraduate Liaison for Michigan State University Linguistics Society: 2021 to 2022
 
