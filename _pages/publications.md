@@ -11,7 +11,7 @@ author_profile: true
 ====
 **Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
 
-Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [NWAV 51](https://nwav51.org/) paper presentation.
+Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/Sneller_etal_NWAV51.pdf)]
 
 Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [NWAV 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
 
