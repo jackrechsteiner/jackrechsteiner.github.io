@@ -19,12 +19,17 @@ Education
 Experience
 ======
 
-* MI Diaries Research Assistant: November 2020 to August 2023
+* University of Pittsburgh Digital Scholarship Summer Graduate Intern
+  * Mentored and managed 3 Digital Scholarship Open Lab Undergraduate students.
+  * Researched, built, and wrote content for [Connecting Queerness in the Pittsburgh Archives](https://connectingqueerness.omeka.net/) website.
+
+* MI Diaries Research Assistant: November 2020 to August 2024
   * [MI Diaries](http://www.mi-diaries.org) is a project of the MSU Sociolinguistics Lab
   * Duties included:
     * Transcribing audio diary entries to be compliant with Forced Alignment & Vowel Extraction software.
     * Participating in sessions related to recruitment, engagement, and brand management.
     * Mentoring and managing 10 Research Experiences for Undergraduate students.
+    * Created software documentation for the MI Diaries Research Framework.
 
 * MSU LiLAC Assistant Instructor: May 2022 to July 2022
   * Created lesson materials, led class sessions, and graded assignments for 15+ students in LIN225 – Language and Gender.
