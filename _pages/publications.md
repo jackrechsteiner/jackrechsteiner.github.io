@@ -15,7 +15,7 @@ Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Y
 
 Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [NWAV 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
 
-**Jack Rechsteiner** and Betsy Sneller. The impact of social information on VOT shadowing by nonbinary speakers. [Proceedings of the 20th International Congress of the Phonetic Sciences](https://www.icphs2023.org/) article. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_ICPhS20.pdf)]
+**Jack Rechsteiner** and Betsy Sneller. The impact of social information on VOT shadowing by nonbinary speakers. [Proceedings of the 20th International Congress of the Phonetic Sciences](https://www.internationalphoneticassociation.org/icphs/icphs2023) article. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_ICPhS20.pdf)]
 
 **Jack Rechsteiner** and Betsy Sneller. The Effects of Topic and Part of Speech on Nonbinary Speakers' Use of (ING). [University of Pennsylvania Working Papers in Linguistics: Vol. 29: Iss. 1](https://repository.upenn.edu/handle/20.500.14332/58728) article. [[pdf](http://jackrechsteiner.github.io/files/RechsteinerPWPL2023.pdf)]
 
