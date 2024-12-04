@@ -67,6 +67,7 @@ Awards
 University Service
 ======
 
+* Graduate Student Representative for the University of Pittsburgh [Linguistics Department](https://www.linguistics.pitt.edu/) Faculty Meetings: September 2024 to Present
 * Webmaster for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/): November 2023 to Present
 * Chair for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/) Summer Research Grants Committee: April 2024 to June 2024
 * Judge for the 24th University [Undergraduate Research and Arts Forum](https://urca.msu.edu/uuraf) at Michigan State University: April 2022
