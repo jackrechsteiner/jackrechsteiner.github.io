@@ -10,7 +10,7 @@ author_profile: true
 
 2025
 ====
-Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [Linguistics Vanguard, 2025](https://doi.org/10.1515/lingvan-2024-0099). [[pdf](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner2025_LingVan.pdf)]
+Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. Article published in [Linguistics Vanguard](https://doi.org/10.1515/lingvan-2024-0099). [[pdf](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner2025_LingVan.pdf)]
 
 2023
 ====
