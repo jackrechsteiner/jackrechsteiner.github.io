@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+
+2025
+====
+Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [Linguistics Vanguard, 2025](https://doi.org/10.1515/lingvan-2024-0099). [[pdf](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner2025_LingVan.pdf)]
+
 2023
 ====
 **Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
