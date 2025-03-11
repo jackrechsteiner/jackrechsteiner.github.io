@@ -19,7 +19,10 @@ Education
 Experience
 ======
 
-* Phonetics and Phonemics Assistant Instructor: August 2024 to present
+* Language, Gender, and Sexaulity Assistant Instructor: January 2025 to present
+  * Position held at the University of Pittsburgh in the Department of Linguistics.
+
+* Phonetics and Phonemics Assistant Instructor: August 2024 to December 2024
   * Position held at the University of Pittsburgh in the Department of Linguistics.
 
 * Digital Scholarship Summer Graduate Intern: May 2024 to August 2024
