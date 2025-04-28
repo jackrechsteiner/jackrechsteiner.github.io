@@ -19,7 +19,7 @@ Education
 Experience
 ======
 
-* Language, Gender, and Sexaulity Assistant Instructor: January 2025 to present
+* Language, Gender, and Sexuality Assistant Instructor: January 2025 to present
   * Position held at the University of Pittsburgh in the Department of Linguistics.
 
 * Phonetics and Phonemics Assistant Instructor: August 2024 to December 2024
