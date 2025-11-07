@@ -10,6 +10,8 @@ author_profile: true
 
 2025
 ====
+**Jack Rechsteiner**. Nonbinary speaker participation in a sound change in progress. [NWAV 53](https://sites.lsa.umich.edu/nwav53/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Abstract.pdf)]
+**Jack Rechsteiner** and Matthew Kanwit. He #####i should do his or her #####i homework if they #####i want a good grade: Variable L2 epicene pronoun usage. [NWAV 53](https://sites.lsa.umich.edu/nwav53/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Abstract.pdf)]
 Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. Article published in [Linguistics Vanguard](https://doi.org/10.1515/lingvan-2024-0099). [[pdf](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner2025_LingVan.pdf)]
 
 2023
