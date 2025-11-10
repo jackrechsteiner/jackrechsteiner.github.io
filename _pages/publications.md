@@ -20,7 +20,7 @@ Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic r
 ====
 **Jack Rechsteiner**. The impact of social information on VOT shadowing by nonbinary speakers. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerNWAV51.pdf)]
 
-Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/Sneller_etal_NWAV51.pdf)]
+Betsy Sneller, Suzanne Evans Wagner, Adam Barnhardt, **Jack Rechsteiner**, Caroline Zackerman, and Yongqing Ye. It’s not the THOUGHT that counts for a LOT of Michigan English sound changes. [NWAV 51](https://nwav51.org/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/Sneller_etal_NWAV51.pdf)]
 
 Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. [NWAV 51](https://nwav51.org/) poster presentation. [[poster](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner_NWAV51.pdf)]
 
@@ -52,6 +52,6 @@ Sam Scroggins. I’m, um, nonbinary: Usage of UM/UH among nonbinary speakers. Po
 
 Zach Sebree. Demographic coding in MI Diaries. Poster presentation at Michigan State University Undergraduate Research and Arts Forum (UURAF), April 14, 2023. Mentors: Suzanne Wagner and **Jack Rechsteiner**.
 
-Abigail “Jayce” Garner. A case study of an audio diarist’s speech formality over time. Poster presentation at Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE), July 27, 2022. Mentors: Betsy Sneller, Suzanne Wagner, and **Jack Rechsteiner**.
+Jayce Garner. A case study of an audio diarist’s speech formality over time. Poster presentation at Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE), July 27, 2022. Mentors: Betsy Sneller, Suzanne Wagner, and **Jack Rechsteiner**.
 
 Olivia Jessner. Synthesizing signoffs: An exploration of gender’s effect on valediction. Poster presentation at Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE), July 27, 2022. Mentors: **Jack Rechsteiner** and Betsy Sneller.
