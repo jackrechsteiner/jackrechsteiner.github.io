@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+2026
+===
+Dan Villarreal and **Jack Rechsteiner**. _Pos[ ] Gazette and Gian[ ] Eagle_: A replication of Guy (1980) with Pittsburgh English}. [American Dialect Society 2026](https://americandialect.org/2026-sked/) Conference paper presentation.
 
 2025
 ====
