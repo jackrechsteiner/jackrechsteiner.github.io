@@ -23,7 +23,7 @@ Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic r
 
 2024
 ====
-Betsy Sneller, Russ Werner, **Jack Rechsteiner**, and Connor Bechler. MiDRF Admin Portal. [DOI: 10.5281/zenodo.13617965](https://doi.org/10.5281/zenodo.13617857). [Link to current documentation](https://github.com/midiaries/datahub/wiki)
+Betsy Sneller, Russ Werner, **Jack Rechsteiner**, and Connor Bechler. MiDRF Admin Portal. [https://doi.org/10.5281/zenodo.13617857](https://doi.org/10.5281/zenodo.13617857).
 
 2023
 ====
