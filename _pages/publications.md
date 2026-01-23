@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 2026
-===
+====
 Dan Villarreal and **Jack Rechsteiner**. _Pos[ ] Gazette and Gian[ ] Eagle_: A replication of Guy (1980) with Pittsburgh English}. [American Dialect Society 2026](https://americandialect.org/2026-sked/) Conference paper presentation.
 
 2025
@@ -17,7 +17,13 @@ Dan Villarreal and **Jack Rechsteiner**. _Pos[ ] Gazette and Gian[ ] Eagle_: A r
 
 **Jack Rechsteiner** and Matthew Kanwit. _He<sub>i</sub> should do his or her<sub>i</sub> homework if they<sub>i</sub> want a good grade_: Variable L2 epicene pronoun usage. [NWAV 53](https://sites.lsa.umich.edu/nwav53/) paper presentation. [[slides](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Abstract.pdf)]
 
+Dan Villarreal and **Jack Rechsteiner**. Archive of Pittsburgh Language and Speech documentation. [https://djvill.github.io/APLS](https://djvill.github.io/APLS)
+
 Suzanne Evans Wagner, Betsy Sneller, and **Jack Rechsteiner**. Sociolinguistic research projects as brands. Article published in [Linguistics Vanguard](https://doi.org/10.1515/lingvan-2024-0099). [[pdf](http://jackrechsteiner.github.io/files/WagnerSnellerRechsteiner2025_LingVan.pdf)]
+
+2024
+====
+Betsy Sneller, Russ Werner, **Jack Rechsteiner**, and Connor Bechler. MiDRF Admin Portal. [DOI: 10.5281/zenodo.13617965](https://doi.org/10.5281/zenodo.13617857). [Link to current documentation](https://github.com/midiaries/datahub/wiki)
 
 2023
 ====
