@@ -24,8 +24,8 @@ repository               : "jackrechsteiner/jackrechsteiner.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Jack Rechsteiner [ˈdʒæk ˈɹɛkstaɪnəɹ]"
-  pronouns         : "they/them"  
+  name             : "Jack Rechsteiner\ [ˈdʒæk ˈɹɛkstaɪnəɹ]\ (they/them)"
+  pronouns         : 
   bio              : "Linguistics graduate student with a focus in sociolinguistics."
   location         : "University of Pittsburgh"
   employer         : 
