@@ -15,7 +15,8 @@ author_profile: true
 
 ### 2026
 
-**Rechsteiner, J.** (in press). Social threat as motivation for phonetic divergence: Evidence from nonbinary participants. *Journal of Sociolinguistics*.
+**Rechsteiner, J.** (2026). Social Threat as Motivation for Phonetic Divergence: Evidence From Nonbinary Participants. *Journal of Sociolinguistics*, josl.70031. <https://doi.org/10.1111/josl.70031>. [[pdf](http://jackrechsteiner.github.io/files/Rechsteiner_JSoc_2026.pdf)]
+
 
 Villarreal, D., **Rechsteiner, J.**, Johnstone, B., & Kiesling, S. (2026). Introducing the Archive of Pittsburgh Language and Speech, a Publicly Accessible, Richly Annotated Corpus of Sociolinguistic Interviews. *Language and Linguistics Compass, 20*(3), e70038. <https://doi.org/10.1111/lnc3.70038>. [[pdf](http://jackrechsteiner.github.io/files/IntroducingAPLS2026.pdf)]
 
