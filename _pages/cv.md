@@ -19,7 +19,7 @@ Education
 Experience
 ======
 
-* Language, Gender, and Sexuality Assistant Instructor: January 2026 to present
+* Language, Gender, and Sexuality Instructor: January 2026 to May 2026
   * Position held at the University of Pittsburgh in the Department of Linguistics.
   
 * Phonetics and Phonemics Instructor: August 2025 to December 2025
@@ -31,10 +31,10 @@ Experience
     * Mentoring and managing 4 Digital Scholarship Open Lab Undergraduate students.
     * Researching, generating metadata, building, and writing content for [A Tale of Four Neighborhoods](https://arcg.is/4iSbG) StoryMap.
 
-* Language, Gender, and Sexuality Assistant Instructor: January 2025 to May 2025
+* Language, Gender, and Sexuality Teaching Assistant: January 2025 to May 2025
   * Position held at the University of Pittsburgh in the Department of Linguistics.
 
-* Phonetics and Phonemics Assistant Instructor: August 2024 to December 2024
+* Phonetics and Phonemics Teaching Assistant: August 2024 to December 2024
   * Position held at the University of Pittsburgh in the Department of Linguistics.
 
 * Digital Scholarship Summer Graduate Intern: May 2024 to August 2024
