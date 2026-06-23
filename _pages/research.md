@@ -42,9 +42,9 @@ Villarreal, D. & **Rechsteiner, J.** (2026). *Pos[ ] Gazette and Gian[ ] Eagle: 
 
 ### 2025
 
-**Rechsteiner, J.**. (2025). *Nonbinary speaker participation in a sound change in progress*. [NWAV 53](https://sites.lsa.umich.edu/nwav53/). [[slides](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Abstract.pdf)]
+**Rechsteiner, J.** (2025). *Nonbinary speaker participation in a sound change in progress*. [NWAV 53](https://sites.lsa.umich.edu/nwav53/). [[slides](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/Rechsteiner2025_NWAV53_Abstract.pdf)]
 
-**Rechsteiner, J.** & Kanwit, M. (2025). *He*<sub>i</sub> should do his or her<sub>i</sub> homework if they<sub>i</sub> want a good grade: Variable L2 epicene pronoun usage. [NWAV 53](https://sites.lsa.umich.edu/nwav53/). [[slides](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Abstract.pdf)]
+**Rechsteiner, J.** & Kanwit, M. (2025). *He<sub>i</sub> should do his or her<sub>i</sub> homework if they<sub>i</sub> want a good grade: Variable L2 epicene pronoun usage*. [NWAV 53](https://sites.lsa.umich.edu/nwav53/). [[slides](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Slides.pdf)] [[abstract](http://jackrechsteiner.github.io/files/RechsteinerKanwit2025_NWAV53_Abstract.pdf)]
 
 ### 2023
 
