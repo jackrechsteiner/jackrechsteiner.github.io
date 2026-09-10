@@ -82,6 +82,7 @@ Awards
 University Service
 ======
 
+* Mentor for the Linguistic Society of America's [Committee on LGBTQ+ [Z] Issues in Linguistics](https://www.lsadc.org/AF_MemberCommittee.asp?committeeid=14) Advising & Mentoring Program: August 2026 to Present
 * Graduate Student Representative for the University of Pittsburgh [Linguistics Department](https://www.linguistics.pitt.edu/) Faculty Meetings: September 2024 to Present
 * Webmaster for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/): November 2023 to Present
 * Chair for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/) Summer Research Grants Committee: April 2024 to June 2024
