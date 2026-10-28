@@ -79,9 +79,10 @@ Awards
 ======
 * University of Pittsburgh Arts & Sciences Graduate Fellowship: August 2023 to April 2024
 
-University Service
+University and Academic Service
 ======
 
+* Panelist for the Linguistics Society of America's [A Queer Kind of Resilience: Perspectives from LGBTQ+ Linguists](https://www.lsadc.org/ev_calendar_day.asp?date=10/27/2026%204:00:00%20PM&eventid=165) webinar: October 27, 2026
 * Mentor for the Linguistic Society of America's [Committee on LGBTQ+ [Z] Issues in Linguistics](https://www.lsadc.org/AF_MemberCommittee.asp?committeeid=14) Advising & Mentoring Program: August 2026 to Present
 * Graduate Student Representative for the University of Pittsburgh [Linguistics Department](https://www.linguistics.pitt.edu/) Faculty Meetings: September 2024 to Present
 * Webmaster for the University of Pittsburgh [Arts & Sciences Graduate Student Organization](https://asgso.pitt.edu/): November 2023 to Present
@@ -89,3 +90,10 @@ University Service
 * Judge for the 24th University [Undergraduate Research and Arts Forum](https://urca.msu.edu/uuraf) at Michigan State University: April 2022
 * Graduate-Undergraduate Liaison for [MSU Linguistics Society](https://msulinguists.weebly.com/): 2021 to 2022
 
+Guest Lectures
+======
+
+* Fall 2026: two lectures on sociolinguistics for two LING 1000 Introduction to Linguistics courses, one lecture on research methods for LING 2020 Data Science for Research in Linguistics at the University of Pittsburgh.
+* Spring 2026: one lecture on sociolinguistics and style for ENGCMP 0200 Seminar in Composition at the University of Pittsburgh.
+* Fall 2025: one lecture on research methods for LING 2578 Phonetics at the University of Pittsburgh.
+* Fall 2024: two lectures on research methods for LING 2020 Data Science for Research in Linguistics at the University of Pittsburgh.
